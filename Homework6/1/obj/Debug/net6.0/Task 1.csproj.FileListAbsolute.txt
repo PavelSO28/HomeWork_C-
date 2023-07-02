@@ -1,0 +1,15 @@
+E:\Апреленко\C#\Home work 6\Task 1\bin\Debug\net6.0\Task 1.exe
+E:\Апреленко\C#\Home work 6\Task 1\bin\Debug\net6.0\Task 1.deps.json
+E:\Апреленко\C#\Home work 6\Task 1\bin\Debug\net6.0\Task 1.runtimeconfig.json
+E:\Апреленко\C#\Home work 6\Task 1\bin\Debug\net6.0\Task 1.dll
+E:\Апреленко\C#\Home work 6\Task 1\bin\Debug\net6.0\Task 1.pdb
+E:\Апреленко\C#\Home work 6\Task 1\obj\Debug\net6.0\Task 1.csproj.AssemblyReference.cache
+E:\Апреленко\C#\Home work 6\Task 1\obj\Debug\net6.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Апреленко\C#\Home work 6\Task 1\obj\Debug\net6.0\Task 1.AssemblyInfoInputs.cache
+E:\Апреленко\C#\Home work 6\Task 1\obj\Debug\net6.0\Task 1.AssemblyInfo.cs
+E:\Апреленко\C#\Home work 6\Task 1\obj\Debug\net6.0\Task 1.csproj.CoreCompileInputs.cache
+E:\Апреленко\C#\Home work 6\Task 1\obj\Debug\net6.0\Task 1.dll
+E:\Апреленко\C#\Home work 6\Task 1\obj\Debug\net6.0\refint\Task 1.dll
+E:\Апреленко\C#\Home work 6\Task 1\obj\Debug\net6.0\Task 1.pdb
+E:\Апреленко\C#\Home work 6\Task 1\obj\Debug\net6.0\Task 1.genruntimeconfig.cache
+E:\Апреленко\C#\Home work 6\Task 1\obj\Debug\net6.0\ref\Task 1.dll
